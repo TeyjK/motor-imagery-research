@@ -1,0 +1,35 @@
+# Data files
+data/*.mat
+*.mat
+
+# Model weights
+weights/
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
